@@ -2,3 +2,4 @@ name: XueQiu直连
 desc: XueQiu相关连接走直连
 rules:
  - DOMAIN-SUFFIX,xueqiu.com,DIRECT
+ - DOMAIN-SUFFIX,cninfo.com.cn,DIRECT
